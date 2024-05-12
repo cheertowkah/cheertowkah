@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cheertowkah
-- 👀 I’m interested in learning Javascript and other fundamenetals for developing full-stack applications via Noodl.
-- 🌱 I’m currently learning Javascript, Node.js, PostgreSql, and database design. 
-- 💞️ I’m looking to collaborate on full-scale applications and SaaS businesses.
+- 👀 I’m interested in becoming a front-end developer with the ultimate aim of developing full-stack applications.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Tailwind CSS and React. 
+- 💞️ I’m looking to develop my skills to a professional level and then help build great web applications!
 
 <!---
 cheertowkah/cheertowkah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
